@@ -1,6 +1,6 @@
 # Toronto Police Service - Crime Rate Predictive Analysis
 
-![alt text](https://github.com/donsohn/Toronto-Police-Service/wordcloud.png?raw=true)
+![alt text](https://github.com/donsohn/Toronto-Police-Service/blob/master/wordcloud.png?raw=true)
 
 ## Objective:
 To create a model that accurately predicts crime while investigating the possible correlation between the prediction, demographics and social services.
