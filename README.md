@@ -2,11 +2,11 @@
 
 ![alt text](https://github.com/donsohn/Toronto-Police-Service/blob/master/wordcloud.png?raw=true)
 
-## Objective:
+## Objective
 To create a model that accurately predicts crime while investigating the possible correlation between the prediction, demographics and social services.
 The purpose for our model is to assist in crime reduction via effective resource reallocation.
 
-## Approach:
+## Approach
 With CRISP-DM as guideline for approach: using 2014-2019 crime data from Toronto Police Service, supplemented with social services and demographics data, perform unsupervised and supervised machine learning.  
 
 Unsupervised learning includes K-Mean and Hierarchical clustering.  
@@ -17,7 +17,7 @@ In addition, made attempts for time series analysis and sentiment analysis (usin
 
 ![alt text](https://github.com/donsohn/Toronto-Police-Service/blob/master/map.png?raw=true)
 
-## Documents:
+## Documents
 | File | Note | 
 | :---: | :---: 
 | Crime Rate Predictive Analysis - FINAL - Team 2 - Janurary 2021.pdf | Final report | 
