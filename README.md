@@ -11,7 +11,7 @@ With CRISP-DM as guideline for approach: using 2014-2019 crime data from Toronto
 
 Unsupervised learning includes K-Mean and Hierarchical clustering.  
 
-Supervised learning includes linear regression, logistic regression, graident boosting decision tree, K nearet neighbour classifier, Support Vector classification, decision tree classifier, Naïve bayes classifier, Random forest classifier, and neural networks.
+Supervised learning includes linear regression, logistic regression, graident boosting decision tree, K nearest neighbour classifier, Support Vector classification, decision tree classifier, Naïve bayes classifier, Random forest classifier, and neural networks.
 
 In addition, made attempts for time series analysis and sentiment analysis (using Twitter API).
 
