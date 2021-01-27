@@ -15,6 +15,8 @@ Supervised learning includes linear regression, logistic regression, graident bo
 
 In addition, made attempts for time series analysis and sentiment analysis (using Twitter API).
 
+![alt text](https://github.com/donsohn/Toronto-Police-Service/blob/master/map.png?raw=true)
+
 ## Documents:
 | File | Note | 
 | :---: | :---: 
