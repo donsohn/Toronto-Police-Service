@@ -30,7 +30,7 @@ In addition, made attempts for time series analysis and sentiment analysis (usin
 
 
 
-## File dependencies:
+## File dependencies
 'Final project - Exploration and Supervised - Team 2.ipynb' references files 'PopdenNeig.csv' and 'Mapping of CRC to TPS.csv' to be in same folder as the Jupyter notebook
 
 ## Team members
