@@ -1,6 +1,5 @@
-# Toronto Police Service
+# Toronto Police Service - Crime Rate Predictive Analysis
 
-Crime Rate Predictive Analysis
 
 ## Objective:
 To create a model that accurately predicts crime while investigating the possible correlation between the prediction, demographics and social services.
@@ -16,9 +15,16 @@ Supervised learning includes linear regression, logistic regression, graident bo
 In addition, made attempts for time series analysis and sentiment analysis (using Twitter API).
 
 ## Documents:
-Powerpoint summary:   York project - Toronto Police - 2021.pptx
+| File | Note | 
+| :---: | :---: 
+| Crime Rate Predictive Analysis - FINAL - Team 2 - Janurary 2021.pdf | Final report | 
+| York project - Toronto Police - 2021.pptx | Powerpoint summary | 
+| Final Project - Clustering - Team 2.ipynb | Unsupervised learning - Jupyter notebook | 
+| Final project - Exploration and Supervised - Team 2.ipynb | Supervised learning - Jupyter notebook |
+| Mapping of CRC to TPS.csv | source file for mapping rec centers to Toronto neighbourhoods |
+| Masterdf_crime.csv | source file for crime data combining social services and demographics |
+| PopdenNeig.csv | source file for population density by neighbourhood |
 
-Document:             Crime Rate Predictive Analysis - FINAL - Team 2 - Janurary 2021.pdf
 
 
 ## File dependencies:
