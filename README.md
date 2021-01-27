@@ -1,4 +1,4 @@
-# Toronto-Police-Service
+# Toronto Police Service
 
 Crime Rate Predictive Analysis
 
