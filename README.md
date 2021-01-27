@@ -34,10 +34,10 @@ In addition, made attempts for time series analysis and sentiment analysis (usin
 'Final project - Exploration and Supervised - Team 2.ipynb' references files 'PopdenNeig.csv' and 'Mapping of CRC to TPS.csv' to be in same folder as the Jupyter notebook
 
 ## Team members
-Suzanne Douglas
-Rachna Kumari
-Herby Robinson
-Pushpendra Sharma
-Don Sohn
+Suzanne Douglas<br>
+Rachna Kumari<br>
+Herby Robinson<br>
+Pushpendra Sharma<br>
+Don Sohn<br>
 
 
