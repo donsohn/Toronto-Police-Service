@@ -9,6 +9,8 @@ The purpose for our model is to assist in crime reduction via effective resource
 ## Approach
 With CRISP-DM as guideline for approach: using 2014-2019 crime data from Toronto Police Service, supplemented with social services and demographics data, perform unsupervised and supervised machine learning.  
 
+The Toronto Police Service through their Public Safety Data Portal is "intended to improve the understanding of policing, improve transparency and enhance condience through the creation and use of open data for public safety in Toronto".  https://data.torontopolice.on.ca/
+
 Unsupervised learning includes K-Mean and Hierarchical clustering.  
 
 Supervised learning includes linear regression, logistic regression, graident boosting decision tree, K nearest neighbour classifier, Support Vector classification, decision tree classifier, Naïve bayes classifier, Random forest classifier, and neural networks.
